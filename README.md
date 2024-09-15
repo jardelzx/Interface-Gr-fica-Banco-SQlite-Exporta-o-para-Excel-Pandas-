@@ -15,7 +15,7 @@ Certifique-se de ter instalado o Python e as bibliotecas necessárias para rodar
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/jardelzx/Interface-Grafica-Banco-SQlite-Exportacao-para-Excel-Pandas.git
+    git clone https://github.com/jardelzx/Interface-Python.git
     ```
 2. Instale as dependências:
     ```bash
