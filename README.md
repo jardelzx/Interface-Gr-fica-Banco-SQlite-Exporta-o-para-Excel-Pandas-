@@ -1,0 +1,1 @@
+# Interface-Gr-fica-Banco-SQlite-Exporta-o-para-Excel-Pandas-
